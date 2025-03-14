@@ -12,6 +12,6 @@ Polytoria simplifies your multiplayer game development. Easy to get started for 
 
 ## Installation Instructions
 
-1. Install the dependancies via the  `fast-setup.py` file, this requires `pip` to be installed.
+1. Install the dependancies via the `fast-setup.py` file, this requires `pip` to be installed.
 2. Run `mkdocs serve`
 3. Input `http://127.0.0.1:8000/` into browser to view locally to edit.
